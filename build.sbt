@@ -1,4 +1,4 @@
-name := """k-means"""
+name := "k-means"
 
 version := "1.0"
 
